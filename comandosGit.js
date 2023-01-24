@@ -10,3 +10,8 @@ directorio de trabajo
 
 
 */
+
+let array1 = ["luis", "carlos", "rodrigo"];
+
+let arrat2 = [];
+
