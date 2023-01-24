@@ -10,3 +10,11 @@ directorio de trabajo
 
 
 */
+
+let valor1= 10;
+
+let valor3 = 5;
+
+let comparacion = valor1 < valor3 ? "sí" : "no";
+
+console.log(comparacion);
